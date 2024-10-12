@@ -1,5 +1,7 @@
-<centre>Hi, I am Poojith</centre>
-<center>Passionate coder shaping the future.<br>Engineering student at Gopalan College of Engineering and Management.</center>
+Hi, I am Poojith
+Passionate coder shaping the future.<br>Engineering student at Gopalan College of Engineering and Management.
+
+---
 
 [![](https://visitcount.itsvg.in/api?id=Poojith-L&icon=0&color=0)](https://visitcount.itsvg.in)
 
