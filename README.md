@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Poojith L </h1>
 <p align="center">Passionate coder shaping the future from India </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Poojith-L&label=Profile%20views&color=0e75b6&style=flat" alt="Poojith-L"/> </p>
 
 <div align="right">
   <img alt="coding" width="400" src="https://github.com/Poojith-L/Poojith-L/blob/main/Coding%20GIF.gif">
@@ -47,7 +48,24 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
 </div>
-<br>
+
+<div align="center">
+  <p><img alt="Poojith's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?  
+  username=Poojith-L&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></p>
+</div>
+
+<div align="center"> <a href="https://github.com/Poojith-L">
+  <img alt="Poojith's Github Stats" src="https://github-readme-stats.vercel.app/api? 
+  username=Poojith-L&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Poojith-L"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Poojith streak" src="https://github-readme-streak- 
+  stats.herokuapp.com/?user=Poojith-L&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a>
+</div>
+
+<br/>
+<hr/>
 
 <div align="center">
   <picture>
