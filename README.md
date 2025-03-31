@@ -44,10 +44,13 @@
 ![](https://leetcard.jacoblin.cool/Poojith_L?ext=heatmap)
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Poojith-L&theme=react&hide_border=true&bg_color=0D1117&show_icons=true&locale=en" 
+<div align="center">
+<p><img src="https://github-readme-stats.vercel.app/api?username=Poojith-L&theme=react&hide_border=true&bg_color=0D1117&show_icons=true&locale=en" 
  alt="Poojith-L"/>
- <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Poojith-L&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0&" alt="Poojith- 
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Poojith-L&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0&" alt="Poojith- 
  L" /></p>
+</div>
+
 <br/>
 <hr/>
 
