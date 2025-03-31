@@ -14,8 +14,6 @@
   <a href="https://www.instagram.com/poojith.l/"> 
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" 
   alt="instagram logo"/> </a>
-  <a href="lpoojith9@gmail.com"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" 
-  width="52" height="40" alt="gmail logo"/> </a>
   <a href="https://x.com/poojith_l"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" 
   width="52" height="40" alt="twitter logo"/> </a>
 </div>
@@ -46,9 +44,9 @@
 ![](https://leetcard.jacoblin.cool/Poojith_L?ext=heatmap)
 </div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Poojith-L&theme=react&hide_border=true&bg_color=0D1117&show_icons=true&locale=en" 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Poojith-L&theme=react&hide_border=true&bg_color=0D1117&show_icons=true&locale=en" 
  alt="Poojith-L"/>
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Poojith-L&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0&" alt="Poojith- 
+ <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Poojith-L&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0&" alt="Poojith- 
  L" /></p>
 <br/>
 <hr/>
