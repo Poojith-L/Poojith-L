@@ -47,15 +47,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
 </div>
-
-<picture>
-  
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Poojith-L/Poojith-L/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Poojith-L/Poojith-L/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Poojith-L/Poojith-L/output/pacman-contribution-graph.svg">
-</picture>
+<br>
 
 <div align="center">
-  
-  ![snake gif](https://github.com/Poojith-L/Poojith-L/blob/output/github-snake-dark.svg)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Poojith-L/Poojith-L/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Poojith-L/Poojith-L/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Poojith-L/Poojith-L/output/pacman-contribution-graph.svg">
+  </picture>
 </div>
+
+<!-- <div align="center">
+
+  ![snake gif](https://github.com/Poojith-L/Poojith-L/blob/output/github-snake-dark.svg)
+</div> -->
