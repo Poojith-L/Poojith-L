@@ -40,16 +40,11 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Poojith-L&locale=en&hide_title=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117&card_width=320&langs_count=5&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Poojith-L&theme=react&hide_border=true&bg_color=0D1117&show_icons=true&locale=en" alt="Poojith-L"/>
+</div>
   
 ![](https://leetcard.jacoblin.cool/Poojith_L?ext=heatmap)
-</div>
-
-<div align="center">
-<p><img src="https://github-readme-stats.vercel.app/api?username=Poojith-L&theme=react&hide_border=true&bg_color=0D1117&show_icons=true&locale=en" 
- alt="Poojith-L"/>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Poojith-L&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0&" alt="Poojith- 
- L" /></p>
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Poojith-L&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0&" alt="Poojith-L" />
 
 <br/>
 <hr/>
