@@ -8,7 +8,7 @@
 
 <h2>⚡️ Where to find me</h2>
 <div align="left">
-  <a href="https://www.linkedin.com/in/poojith-l-321ba3288/"> 
+  <a href="https://www.linkedin.com/in/poojithl/"> 
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" 
   alt="linkedin logo"/></a>
   <a href="https://www.leetcode.com/u/Poojith_L/">
