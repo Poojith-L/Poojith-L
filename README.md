@@ -4,7 +4,7 @@
 <p align="center">Passionate coder shaping the future from India </p>
 
 <img align="right" alt="coding" width="400" src="https://github.com/Poojith-L/Poojith-L/blob/main/Coding%20GIF.gif"><br/>
-<p align="left">An enthusiastic and detail-oriented Software Developer with strong problem-solving skills and expertise in Data Structures and Algorithms. Proficient in C, C++, Python, and SQL, with hands-on experience in full-stack development using Django, PHP, HTML, CSS, and object-oriented programming principles. Adept at building scalable web applications, managing databases, and deploying on cloud platforms. Strong foundation in software design, debugging, and performance optimization. Skilled in MS Office for documentation and reporting. Passionate about writing efficient code and developing innovative solutions.</p>
+<p align="left">An enthusiastic and detail-oriented Software Developer with strong problem-solving skills and expertise in Data Structures and Algorithms. Proficient in Python, C, C++, MySQL, with hands-on experience in full-stack development using Django, Flask, React.JS, HTML, CSS, JavaScript and object-oriented programming principles. Adept at building scalable web applications, managing databases, and deploying on cloud platforms. Strong foundation in software design, debugging, and performance optimization. Skilled in MS Office for documentation and reporting. Passionate about writing efficient code and developing innovative solutions.</p>
 
 <h2>⚡️ Where to find me</h2>
 <div align="left">
@@ -24,21 +24,28 @@
 ### 🌐 [My Portfolio](https://poojith-l.github.io/PoojithL/)
 <h2>🚀 Languages and Tools I Use</h2>
 <p align="left">
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
-<a href="https://www.w3schools.com/php/default.asp" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a> 
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a></p>
+<a href="https://mui.com/material-ui/"><img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo"  /></a>
+<a href="https://www.geeksforgeeks.org/python/flask-tutorial/"><img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
+<a href="https://www.geeksforgeeks.org/python/fastapi-introduction/"> <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  /></a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a> 
+<a href="https://ubuntu.com/"><img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  /></a>
+</p>
+
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="vscode logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="jupyter logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40" alt="pycharm logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="vscode logo" />
 </p>
 <br/>
 
